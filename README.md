@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-🐑 I'm Junhao. Welcome! 🐑
+I'm Junhao. Welcome! 🐑
 
 - Website: [junhaow.com](https://junhaow.com)
 - LinkedIn: [@junhaowww](https://www.linkedin.com/in/junhaowww/)
-- Twitter: [@junhaowww](https://twitter.com/junhaowww)
 
 <!--
 **forkercat/forkercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
