@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Junhao. Welcome! 🐑
+I'm Junhao. Welcome! 😊
 
 - Website: [junhaow.com](https://junhaow.com)
 - LinkedIn: [@junhaowww](https://www.linkedin.com/in/junhaowww/)
