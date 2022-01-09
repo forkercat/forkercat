@@ -7,13 +7,10 @@ I'm Junhao. Welcome! 😊
 
 Post: [Making Sky's Stylized Grass with Compute Shader in Unity](https://www.junhaow.com/2021/03/06/050_Stylized-Sky-grass-in-Unity/) ([Gist](https://gist.github.com/forkercat/fb6c030c17fe1e109a34f1c92571943f))
 
-```csharp
-// Credit: https://www.patreon.com/posts/grass-geometry-1-40090373
-
-using UnityEngine;
- 
-public class ShaderInteractor : MonoBehaviour
-```
+<p align="left">
+<!--     <img src="https://bloggg-1254259681.cos.na-siliconvalley.myqcloud.com/cyod1.png" width="30%" alt="Make Grass in Sky"> -->
+     <img src="https://bloggg-1254259681.cos.na-siliconvalley.myqcloud.com/2jp8m.gif" width="30%" alt="Reproduce Sky's Stylized Grass in Unity">
+</p>
 
 
 <!--
