@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-I'm Junhao. Welcome! 😊
+😊 I'm Junhao. Welcome to my profile!
 
 - Website: [junhaow.com](https://junhaow.com)
 - LinkedIn: [@junhaowww](https://www.linkedin.com/in/junhaowww/)
 
-Post: [Making Sky's Stylized Grass with Compute Shader in Unity](https://www.junhaow.com/2021/03/06/050_Stylized-Sky-grass-in-Unity/) ([Gist](https://gist.github.com/forkercat/fb6c030c17fe1e109a34f1c92571943f))
+✏️ Post: [Making Sky's Stylized Grass with Compute Shader in Unity](https://www.junhaow.com/2021/03/06/050_Stylized-Sky-grass-in-Unity/) ([Gist](https://gist.github.com/forkercat/fb6c030c17fe1e109a34f1c92571943f)) & [LeetCode Book](https://www.junhaow.com/lc/)
+
+🕹 Game: Plan Odyssey ([Trailer](https://www.youtube.com/watch?v=TfVEHG0-VgU&ab_channel=Forkercat) & [Demo](https://www.youtube.com/watch?v=Ie9Xrx9ZmJM&t=40s&ab_channel=Forkercat) & [Learn More](https://github.com/forkercat/StorageBaseWithoutCatNotice/blob/main/PlanOdyssey/%5BCS-526%5D%20Final%20Report.pdf))
 
 <p align="left">
-<!--     <img src="https://bloggg-1254259681.cos.na-siliconvalley.myqcloud.com/cyod1.png" width="30%" alt="Make Grass in Sky"> -->
-     <img src="https://bloggg-1254259681.cos.na-siliconvalley.myqcloud.com/2jp8m.gif" width="30%" alt="Reproduce Sky's Stylized Grass in Unity">
+     <img src="resources/plan-odyssey-1.jpg" width="30%" alt="Plan Odyssey - Waterfall">
+     <img src="resources/plan-odyssey-2.jpg" width="30%" alt="Plan Odyssey - Home">
 </p>
-
 
 <!--
 **forkercat/forkercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
